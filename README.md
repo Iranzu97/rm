@@ -15,7 +15,7 @@ To launch the robot, go to the robot directory:
 
 cd ~/rm/src/robominer/robominer_ign/robot
 
-Launch the robot:
+Launch the robot in an empty world:
 
 ign gazebo robot.sdf
 
@@ -23,7 +23,7 @@ To launch the cave, go to the cave directory:
 
 cd ~/rm/src/robominer/robominer_ign/cave
 
-Launch the cave:
+Launch the cave in an empty world:
 
 ign gazebo cave.sdf
 
