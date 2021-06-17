@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+<ignition version='1.0'>
+  <executable name='robot'>
+    <command>cd ~/ws/src/robominer/robominer/robot</command>
+    <command>ign gazebo robot.sdf</command>
+  </executable>
+
+  <executable name='cave'>
+    <command>cd ~/rm/src/robominer/robominer_ign/cave</command>
+    <command>ign gazebo cave.sdf</command>
+  </executable>
+
+</ignition>
