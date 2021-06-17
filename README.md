@@ -11,9 +11,7 @@ cd ~/rm
 
 colcon build
 
-Launch the robot.
-
-Go to the directory:
+To launch the robot, go to the robot directory:
 
 cd ~/rm/src/robominer/robominer_ign/robot
 
@@ -21,11 +19,11 @@ Launch the robot:
 
 ign gazebo robot.sdf
 
-Launch the cave:
+To launch the cave, go to the cave directory:
 
 cd ~/rm/src/robominer/robominer_ign/cave
 
-Launch the robot:
+Launch the cave:
 
 ign gazebo cave.sdf
 
