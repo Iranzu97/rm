@@ -3,7 +3,7 @@
 
 This works with ROS Foxy
 
-Create a new directory, for example "rm". Create src/robominer/robominer_ign and introduce the 2 files inside the file named robominer_ign. Leave the ros_ign file aside and you should end up with 2 files: robominer_ign and ros_ign
+Create a new directory, for example "rm". Create inside the files src/robominer and introduce these 2 files inside the file named robominer.
 
 Build and install:
 
